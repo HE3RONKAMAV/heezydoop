@@ -1,0 +1,38 @@
+.heading1{
+    color: aqua;
+}
+.heading2{
+    color: #f86b07;
+}
+#myheading{
+    font-family:"DejaVu Sans Mono" ;
+}
+.eMobilis{
+    height: 200px;
+    background-color: #b79407;
+    padding-top: 30px;
+    padding-left: 55px;
+    padding-bottom: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    color: aqua;
+}
+.mytest{
+    display: flex;
+    background-color: lavender;
+    padding: 20px;
+}
+.para1{
+    margin-left: 20px;
+}
+.main{display: flex;
+}
+.paragraph6{
+    background-color: antiquewhite;
+}
+.paragraph7{
+    background-color: chartreuse;
+}
+.paragraph8{
+    background-color: chocolate;
+}
